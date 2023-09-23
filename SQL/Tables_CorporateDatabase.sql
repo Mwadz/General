@@ -1,6 +1,13 @@
 /*markdown
 # Creating the Corporate_database
-This database is a simple example of a company database.  
+This database is a simple example of a company database. 
+*/
+
+-- DELETE TABLES THAT ARE  RELATED
+-- SET FOREIGN_KEY_CHECKS=0; DROP TABLE bericht; SET FOREIGN_KEY_CHECKS=1;
+
+
+/*markdown
 ## Employee Table
 This table contains the following employee information;
  * **emp_id** : the employee's ID number (PRIMARY KEY)
@@ -27,6 +34,7 @@ CREATE TABLE employee (
 
 
 
+
 /*markdown
 ## Branch Table
 This table contains the following branch information;
@@ -36,6 +44,7 @@ This table contains the following branch information;
  * **mgr_start_date** : the date when the branch manager started working for the company <br>
  
  **mgr_id** is a foreign key that references **employee_id**
+
 
 */
 
@@ -70,6 +79,7 @@ This table contains the following client information;
  * **branch_id** : the ID number of each specific branch (PRIMARY KEY)
  
  **branch_id** is a foreign key in this table, referencing the primary key **branch_id** in the table "branch"
+
 
 */
 
