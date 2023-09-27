@@ -1,6 +1,13 @@
 <MyRoot>
     ip_text: ip_text
     nickname_text: nickname_test
+    connect_btn: connect_btn
+    chat_text: chat_text
+    message_text: message_text
+    send_btn: send_btn
+    connection_grid: connection_grid
+
+    orientation: "vertical"
 
     GridLayout:
         id: connectiongrid
@@ -63,6 +70,7 @@
     TextInput:
         id: message_text
         font_size: 36
+        disabled: True 
     Button:
         id: send_btn
         text: "send"
