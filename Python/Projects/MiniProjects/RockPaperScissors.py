@@ -10,7 +10,7 @@ while True:
 
     if user_input == "q":
         break
-    if user_input not in options:
+    elif user_input not in options:
         continue
     random_number = random.randint(0, 2)
     # rock: 0, paper: 1, scissors: 2
