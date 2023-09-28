@@ -13,7 +13,7 @@ else:
     quit()
 
 
-random_number = random.randint(0, top_of_range)
+random_number = random.randint(1, top_of_range)
 # print(random_number)
 guesses = 0
 
@@ -28,6 +28,7 @@ while True:
         continue
     if user_guess == random_number:
         print("You got it in ", guesses, "guesses")
+        break
     elif user_guess > random_number:
         print("you were above the number!")
     else:
