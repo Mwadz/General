@@ -11,4 +11,5 @@ while True:
         print("Please type in a valid value.")
         continue
     random_number = random.randint(0, 2)
+    # rock: 0, paper: 1, scissors: 2
 print("Good Bye!")
