@@ -23,8 +23,14 @@
 #     print(x,y)
 # f(y=2,x=1)
 import numpy as np
+
+# data = pd.read_csv("Datasets\housing.csv")
+# print(data.columns)
+
+d={"greg":3,"trump":5}
 import pandas as pd
-data = pd.read_csv("")
+df = pd.DataFrame.from_dict(d)
+print(df)
 # n = np.array([[1,2,3,4,5,8],[1,2,3,4,5,6]])
 # print(n.size)
 # print(n.ndim)
