@@ -1,6 +1,6 @@
 ---
-**Repository:** "General - A Data Science and Machine Learning Repository"
-**Output:** github_document
+Repository: "General - A Data Science and Machine Learning Repository"
+Output: github_document
 ---
 
 # Data Science and Machine Learning Repository
