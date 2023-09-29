@@ -17,16 +17,16 @@ In the "Certificates" directory, you will find certificates of completion for va
 The "Datasets" directory contains a variety of datasets that you can use for practicing data manipulation, analysis, and machine learning tasks. Each dataset is organized into its own subdirectory with a description of its contents.
 
 ## Jupyter Notebooks
-Explore the "Jupyter Notebooks" directory to find a collection of Jupyter notebooks that cover various data science and machine learning topics. These notebooks are designed to guide you through different concepts and provide hands-on experience.
+Explore the "Notebooks" directory to find a collection of Jupyter notebooks that cover various data science and machine learning topics. These notebooks are designed to guide you through different concepts and provide hands-on experience.
 
 ## SQL Queries
-The "SQL Queries" directory contains SQL scripts and queries that can be used to practice database manipulation and data retrieval. You'll find both simple and complex examples to improve your SQL skills.
+The "SQL" directory contains SQL scripts and queries that can be used to practice database manipulation and data retrieval. You'll find both simple and complex examples to improve your SQL skills.
 
 ## Python Projects
-In the "Python Projects" directory, you'll discover a range of Python projects related to data science and machine learning. These projects include code samples, explanations, and instructions to help you implement and understand various algorithms and techniques.
+In the "Python" directory contains a "Python_Projects" folder, where you'll discover a range of Python projects related to data science and machine learning. These projects include code samples, explanations, and instructions to help you implement and understand various algorithms and techniques.
 
-## Machine Learning Models (python folder)
-The "Machine Learning Models" directory houses pre-trained machine learning models along with sample code for model evaluation and deployment. You can use these models as a starting point for your own projects or for educational purposes.
+## Machine Learning Models
+The "Python" directory also houses a "ML_Models" folder with pre-trained machine learning models along with sample code for model evaluation and deployment. You can use these models as a starting point for your own projects or for educational purposes.
 
 ## Getting Started
 To get started, clone this repository to your local machine:
