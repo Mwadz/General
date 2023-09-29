@@ -1,8 +1,3 @@
----
-Repository: "General - A Data Science and Machine Learning Repository"
-Output: github_document
----
-
 # Data Science and Machine Learning Repository
 
 Welcome to the Data Science and Machine Learning Repository! This repository contains a collection of certificates, datasets, Jupyter notebooks, SQL queries, Python projects, and machine learning models to help you learn and practice data science and machine learning.
